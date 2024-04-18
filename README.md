@@ -1,7 +1,7 @@
 ## 💻 About me
 
 <div>Full Stack Web development student</div>
-Javascript | HTML | CSS | React | Typescript | Node
+Clojure | Javascript | Python | React | Typescript | Node
 
 
 
